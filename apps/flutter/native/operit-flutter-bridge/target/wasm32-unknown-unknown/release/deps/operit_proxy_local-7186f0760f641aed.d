@@ -1,0 +1,10 @@
+/home/runner/work/Operit2-iOS-Experimental/Operit2-iOS-Experimental/apps/flutter/native/operit-flutter-bridge/target/wasm32-unknown-unknown/release/deps/operit_proxy_local-7186f0760f641aed.d: /home/runner/work/Operit2-iOS-Experimental/Operit2-iOS-Experimental/core/crates/proxy/local/src/lib.rs /home/runner/work/Operit2-iOS-Experimental/Operit2-iOS-Experimental/apps/flutter/native/operit-flutter-bridge/target/wasm32-unknown-unknown/release/build/operit-proxy-local-e744049d913d8f4d/out/generated_core_dispatch.rs
+
+/home/runner/work/Operit2-iOS-Experimental/Operit2-iOS-Experimental/apps/flutter/native/operit-flutter-bridge/target/wasm32-unknown-unknown/release/deps/liboperit_proxy_local-7186f0760f641aed.rlib: /home/runner/work/Operit2-iOS-Experimental/Operit2-iOS-Experimental/core/crates/proxy/local/src/lib.rs /home/runner/work/Operit2-iOS-Experimental/Operit2-iOS-Experimental/apps/flutter/native/operit-flutter-bridge/target/wasm32-unknown-unknown/release/build/operit-proxy-local-e744049d913d8f4d/out/generated_core_dispatch.rs
+
+/home/runner/work/Operit2-iOS-Experimental/Operit2-iOS-Experimental/apps/flutter/native/operit-flutter-bridge/target/wasm32-unknown-unknown/release/deps/liboperit_proxy_local-7186f0760f641aed.rmeta: /home/runner/work/Operit2-iOS-Experimental/Operit2-iOS-Experimental/core/crates/proxy/local/src/lib.rs /home/runner/work/Operit2-iOS-Experimental/Operit2-iOS-Experimental/apps/flutter/native/operit-flutter-bridge/target/wasm32-unknown-unknown/release/build/operit-proxy-local-e744049d913d8f4d/out/generated_core_dispatch.rs
+
+/home/runner/work/Operit2-iOS-Experimental/Operit2-iOS-Experimental/core/crates/proxy/local/src/lib.rs:
+/home/runner/work/Operit2-iOS-Experimental/Operit2-iOS-Experimental/apps/flutter/native/operit-flutter-bridge/target/wasm32-unknown-unknown/release/build/operit-proxy-local-e744049d913d8f4d/out/generated_core_dispatch.rs:
+
+# env-dep:OUT_DIR=/home/runner/work/Operit2-iOS-Experimental/Operit2-iOS-Experimental/apps/flutter/native/operit-flutter-bridge/target/wasm32-unknown-unknown/release/build/operit-proxy-local-e744049d913d8f4d/out
